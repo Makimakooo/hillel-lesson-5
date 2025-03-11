@@ -1,0 +1,53 @@
+h1 { 
+    color: rgb(107, 60, 37);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+form{
+    color:rgba(199, 163, 184, 0.626);
+    width: 250px;
+    padding: 10px;
+    border: 2px solid #833b57; 
+    border-radius: 15px; 
+    background-color: #572841cd;  
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+input[type="submit"], button {
+    background-color: rgba(178, 101, 152, 0.971);
+    border-radius: 15px;
+}
+
+#maintext{
+    color:rgba(238, 143, 198, 0.626);
+    width: max-content;
+    padding: 20px;
+    border: 2px solid #833b57; 
+    border-radius: 15px; 
+    background-color: #572841cd; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#contacts{
+    color:rgba(229, 194, 220, 0.933);
+    width: max-content;
+    padding: 15px;
+    border: 2px solid #833b57; 
+    border-radius: 15px; 
+    background-color: #572841cd; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#cars{
+    color:rgba(244, 234, 240, 0.933);
+    height: 50px;
+    width: 250px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 15px; 
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(12, 9, 1);
+}
+footer p {
+    color: black;
+}
